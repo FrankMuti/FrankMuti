@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Stein</h1>
+<h1 align="center">Hi 👋, I'm Frank Muti (Francis)</h1>
 <h3 align="center">Another Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankmuti&label=Profile%20views&color=0e75b6&style=flat" alt="frankmuti" /> </p>
 
 <p align="left"> <a href="https://twitter.com/stein__code" target="blank"><img src="https://img.shields.io/twitter/follow/stein__code?logo=twitter&style=for-the-badge" alt="stein__code" /></a> </p>
 
-- 🔭 I’m currently working on **STMT**
+- 🔭 I’m currently working on [STMT](stmt.muti.me)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/francis-muti/](https://www.linkedin.com/in/francis-muti/)
+- 📄 Know about my experiences [muti.me](muti.me)
 
 - ⚡ Fun fact **I think I'm smart. lol**
 
@@ -31,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frankmuti&show_icons=true&locale=en&layout=compact" alt="frankmuti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frankmuti&show_icons=true&locale=en" alt="frankmuti" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frankmuti&" alt="frankmuti" /></p>
