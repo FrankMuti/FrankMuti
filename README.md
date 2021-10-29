@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/stein__code" target="blank"><img src="https://img.shields.io/twitter/follow/stein__code?logo=twitter&style=for-the-badge" alt="stein__code" /></a> </p>
 
-- 🔭 I’m currently working on [https://stmt.tech](stmt.tech)
+- 🔭 I’m currently working on [stmt.tech](https://stmt.tech)
 
 - 📫 How to reach me **frank@muti.me**
 
