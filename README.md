@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **frank@muti.me**
 
-- 📄 Know about my experiences [https://muti.me](muti.me)
+- 📄 Know about my experiences [muti.me](https://muti.me)
 
 - ⚡ Fun fact **I think I'm smart. 1011**
 
