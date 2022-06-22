@@ -11,5 +11,5 @@
 
 - 📄 Know about my experiences **[muti.me](https://muti.me)**
 
-- ⚡ Fun fact **I think I'm smart. 1011**
+- ⚡ ***Be Smart***
 
